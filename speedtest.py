@@ -1,3 +1,4 @@
+# speed test
 import random,time
 def get_random_sentence():
     sample_sentences = [
