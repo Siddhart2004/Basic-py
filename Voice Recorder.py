@@ -27,14 +27,3 @@ with wave.open(output_file, 'wb') as wf:
     wf.setframerate(rate)
     wf.writeframes(b''.join(frames))
 print(f"Audio saved Will be as {output_file}")
-#corections
-#
-#
-#
-#
-#
-#
-#
-#
-##
-#
